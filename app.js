@@ -15,7 +15,7 @@ const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
 const homecontent = "WELCOME guys,have a good experience......";
-const aboutcontent = "HERE we use to post receiepes of different varieties of foods.helpful for alll age groups who are interested in cooking ";
+const aboutcontent = "HERE we use to post recipes of different varieties of foods.helpful for alll age groups who are interested in cooking ";
 const contactcontent = "A warm welcome to you.For further details you can contact to our chefs on the following mail addresses:abc@gmail.com,wert@gmail.com.For further details cal on:XXXXXXXXXX";
 
 
